@@ -25,7 +25,7 @@
     <module>persist</module>
     <module>servlet</module>
     <module>spring</module>
-    <module>struts2</module>
+<!--    <module>struts2</module>-->
     <module>testlib</module>
     <module>throwingproviders</module>
   </modules>
